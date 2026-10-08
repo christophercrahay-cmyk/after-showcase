@@ -6,6 +6,11 @@
 
 > **Technical review:** [Architecture evidence and limitations](AUDIT.md) — simulation logic and visual presentation.
 
+## Exemples de code commentés
+
+[Consulter les exemples techniques](CODE_EXAMPLES.md) — extraits **illustratifs**, volontairement simplifiés, distincts du code privé. Ils montrent des frontières d'architecture et leurs limites, sans prétendre constituer une preuve de fonctionnement.
+
+
 ## Le concept
 
 AFTER part d'une règle de progression simple :

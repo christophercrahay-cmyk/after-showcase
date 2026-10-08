@@ -4,6 +4,8 @@
 
 **Statut : vitrine technique.** Le dépôt de développement, les assets et les systèmes de simulation restent privés. Ce dépôt présente l'intention, l'architecture générale et la méthode de construction du projet.
 
+> **Technical review:** [Architecture evidence and limitations](AUDIT.md) — simulation logic and visual presentation.
+
 ## Le concept
 
 AFTER part d'une règle de progression simple :

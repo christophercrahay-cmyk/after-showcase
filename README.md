@@ -255,3 +255,6 @@ Des captures et vidéos pourront être ajoutées ici au fur et à mesure de la p
 
 **Christopher Crahay**  
 AI Builder — Intégrateur de systèmes IA
+
+
+<!-- audit-sequence: 03 | architecture survives when presentation is removed -->

@@ -6,6 +6,8 @@
 
 > **Technical review:** [Architecture evidence and limitations](AUDIT.md) — simulation logic and visual presentation.
 
+**[Voir les captures authentiques du jeu et les suites de tests sur le portfolio](https://christopher-crahay.vercel.app/work/after)** — six vues de Godot et deux suites isolées (CORE-01 : 30/0 ; PLAYABILITY-REALITY-01 : 14/0). Les interactions montrées ont été injectées par script ; ce n'est pas une session jouée à la main.
+
 ## Exemples de code commentés
 
 [Consulter les exemples techniques](CODE_EXAMPLES.md) — extraits **illustratifs**, volontairement simplifiés, distincts du code privé. Ils montrent des frontières d'architecture et leurs limites, sans prétendre constituer une preuve de fonctionnement.
@@ -256,7 +258,7 @@ Cette vitrine ne publie pas :
 - les documents internes de conception et d'audit ;
 - les pipelines et outils internes complets.
 
-Des captures et vidéos pourront être ajoutées ici au fur et à mesure de la présentation publique du projet.
+Les [captures du vrai jeu et les résultats de tests isolés sont disponibles sur le portfolio](https://christopher-crahay.vercel.app/work/after). Le film d'ambiance reste à produire ; les validations anciennes et celles du chantier actuel y sont distinguées.
 
 ---
 
